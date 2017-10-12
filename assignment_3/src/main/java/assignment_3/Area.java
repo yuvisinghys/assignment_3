@@ -2,6 +2,7 @@ package assignment_3;
 
 
 public class Area {
+	
 
  // Calculates the Area of a Triangle
  public static double getArea(double a, double b, double c) {
@@ -14,5 +15,7 @@ public class Area {
    return area;
   }
  }
+
 }
+
 
